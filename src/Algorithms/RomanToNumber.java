@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class RomanToNumber {
     public static int romanToNumber(String roman){
         int nums [] = new int[roman.length()];

@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class ReverseInt {
     public static int reverseInt(int num){
         int reverse = 0;

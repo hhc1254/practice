@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class LongestCommonPrefix {
     public static String longestCommonPrefix(String [] strs){
         String prefix = strs[0];

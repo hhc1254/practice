@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class Point {
     int x, y;
     public Point(int x, int y){

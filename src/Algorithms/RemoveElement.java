@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class RemoveElement {
     public static int removeElement(int[]nums, int value){
         int i = 0;

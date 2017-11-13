@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class Palindrome {
     public static boolean isPalindrome(int num){
         if(num < 0 || (num != 0 && num % 10 == 0)){
@@ -22,8 +24,8 @@ public class Palindrome {
         int y = 10;
         int z = 0;
 
-        System.out.println(x + " is a Palindrome: " + isPalindrome(x));
-        System.out.println(y + " is a Palindrome: " + isPalindrome(y));
-        System.out.println(z + " is a Palindrome: " + isPalindrome(z));
+        System.out.println(x + " is a Algorithms.Palindrome: " + isPalindrome(x));
+        System.out.println(y + " is a Algorithms.Palindrome: " + isPalindrome(y));
+        System.out.println(z + " is a Algorithms.Palindrome: " + isPalindrome(z));
     }
 }
